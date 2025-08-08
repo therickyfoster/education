@@ -10,11 +10,11 @@
 
 [![Contributors](https://img.shields.io/github/contributors/therickyfoster/education?style=flat-square)](https://github.com/therickyfoster/education/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/therickyfoster/education?style=flat-square)](https://github.com/therickyfoster/education/commits/main)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/planetaryrestorationarchive)
+[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/therickyfoster)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fplanetaryrestorationarchive.com)](https://planetaryrestorationarchive.com/education)
 
 **Folder:** `education/`  
-**Part of:** [AI Co-Evolution Starter Pack](https://github.com/planetaryrestorationarchive/education/blob/main/starter-pack.md)
+**Part of:** [AI Co-Evolution Starter Pack](https://github.com/therickyfoster/education/blob/main/starter-pack.md)
 **Stewardship:** [Foster + Navi](https://github.com/therickyfoster) 
 **License:** [GNU AGPL-3.0 + Anti-Commercialization](LICENSE)
 **Version:** 1.2
@@ -599,5 +599,6 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>25)
+
 
 
