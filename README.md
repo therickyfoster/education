@@ -594,11 +594,12 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 
 ---
 
-**[⭐ Star this repo](https://github.com/planetaryrestorationarchive/education)** • **[🍴 Fork it](https://github.com/planetaryrestorationarchive/education/fork)** • **[📢 Share it](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20AI%20education%20toolkit!&url=https://github.com/planetaryrestorationarchive/education)**
+**[⭐ Star this repo](https://github.com/therickyfoster/education)** • **[🍴 Fork it](https://github.com/therickyfoster/education/fork)** • **[📢 Share it](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20AI%20education%20toolkit!&url=https://github.com/therickyfoster/education)**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>25)
+
 
 
 
