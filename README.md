@@ -556,7 +556,7 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/planetaryrestorationarchive)s
+[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/therickyfoster)s
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:admin@planetaryrestorationarchive.com)
 [![Docs](https://img.shields.io/badge/Documentation-Read%20More-blue?style=for-the-badge&logo=gitbook)](https://docs.planetaryrestorationarchive.com)
 
@@ -572,7 +572,7 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=planetaryrestorationarchive/education)](https://github.com/planetaryrestorationarchive/education/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=therickyfoster/education)](https://github.com/therickyfoster/education/graphs/contributors)
 
 **Special Thanks to our Community:**
 - 👩‍🏫 **0 Educators** who've shared their classroom experiences
@@ -598,7 +598,8 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</div>25)
+</div>
+
 
 
 
