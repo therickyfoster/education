@@ -8,8 +8,8 @@
 ![License](https://img.shields.io/badge/License-AGPL--3.0%20%2B%20Anti--Commercial-red.svg?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.1-brightgreen?style=for-the-badge)
 
-[![Contributors](https://img.shields.io/github/contributors/therickyfoster/education?style=flat-square)](https://github.com/planetaryrestorationarchive/education/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/planetaryrestorationarchive/education?style=flat-square)](https://github.com/planetaryrestorationarchive/education/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/therickyfoster/education?style=flat-square)](https://github.com/therickyfoster/education/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/therickyfoster/education?style=flat-square)](https://github.com/therickyfoster/education/commits/main)
 [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/planetaryrestorationarchive)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fplanetaryrestorationarchive.com)](https://planetaryrestorationarchive.com/education)
 
@@ -599,4 +599,5 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>25)
+
 
