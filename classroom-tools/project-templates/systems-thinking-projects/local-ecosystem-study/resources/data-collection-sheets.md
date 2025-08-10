@@ -1006,4 +1006,186 @@ ________________________________
 ### Planning for Next Week
 
 #### Research Priorities
-**Top
+**Top 3 priorities for next week:**  
+1. ________________________________  
+2. ________________________________  
+3. ________________________________
+
+**Data collection focus:**  
+________________________________  
+________________________________
+
+**AI collaboration goals:**  
+1. ________________________________  
+2. ________________________________
+
+#### Methodology Adjustments
+**Changes to make based on this week's experience:**  
+________________________________  
+________________________________
+
+**New techniques to try:**  
+________________________________  
+________________________________
+
+**Equipment needed:**  
+________________________________
+
+#### Questions to Investigate
+**Follow-up questions from this week:**  
+1. ________________________________  
+2. ________________________________  
+3. ________________________________
+
+**AI research prompts to prepare:**  
+1. ________________________________  
+2. ________________________________
+
+### Long-term Project Reflection
+
+#### Progress Toward Research Goals
+**Original research question:** ________________________________
+
+**Progress assessment:** [ ] On track [ ] Ahead of schedule [ ] Behind schedule [ ] Need to refocus
+
+**Confidence in eventual answer:** [ ] High [ ] Moderate [ ] Low [ ] Uncertain
+
+#### Project Timeline Check
+**Weeks completed:** _____ **Weeks remaining:** _____  
+**Data collection:** [ ] Complete [ ] On schedule [ ] Behind [ ] Need extension  
+**Analysis phase:** [ ] Not started [ ] Beginning [ ] In progress [ ] Complete  
+**Presentation prep:** [ ] Not started [ ] Beginning [ ] In progress [ ] Complete
+
+#### Skills Development Assessment
+**Strongest scientific skills developed:**  
+1. ________________________________  
+2. ________________________________  
+3. ________________________________
+
+**AI collaboration skills mastered:**  
+1. ________________________________  
+2. ________________________________  
+3. ________________________________
+
+**Areas still needing improvement:**  
+1. ________________________________  
+2. ________________________________
+
+#### Overall Learning Assessment
+**Most surprising discovery about ecosystems:**  
+________________________________  
+________________________________
+
+**Most valuable AI collaboration insight:**  
+________________________________  
+________________________________
+
+**How this project changed my understanding of science:**  
+________________________________  
+________________________________
+
+**Confidence in my ability to conduct independent research:**  
+[ ] Much higher [ ] Somewhat higher [ ] Same [ ] Lower
+
+---
+
+## 📋 Data Sheet Usage Guidelines
+
+### Getting Started
+1. **Print multiple copies** of sheets you'll use repeatedly (Daily Observation, Species Survey, AI Collaboration)
+2. **Complete Sheet 1 first** to establish your project framework
+3. **Keep sheets in a sturdy folder** or binder for field use
+4. **Bring backup writing materials** (pen/pencil) to every field session
+
+### Field Usage Tips
+- **Complete forms immediately** during or right after observations
+- **Use pencil for outdoor work** (more weather-resistant than pen)
+- **Take photos of completed sheets** as backup documentation
+- **Note any unusual circumstances** that might affect data quality
+
+### AI Integration Best Practices
+- **Document every AI interaction** using Sheet 9
+- **Verify important AI claims** before incorporating into analysis
+- **Balance AI assistance** with independent observation and thinking
+- **Use AI collaboration log** to track learning progression
+
+### Quality Assurance
+- **Review completed sheets daily** for completeness and clarity
+- **Cross-check information** between different sheet types
+- **Get peer or teacher feedback** on data collection techniques
+- **Maintain consistent methodology** throughout the project
+
+### Data Management
+- **Organize sheets chronologically** by date and sheet type
+- **Create digital backups** by photographing or scanning completed sheets
+- **Summarize weekly progress** using reflection sheets
+- **Prepare final data compilation** for analysis and presentation
+
+### Troubleshooting Common Issues
+
+#### Incomplete Data
+**Problem:** Missing information on data sheets  
+**Solution:** Establish daily review routine, use checklists, set phone reminders
+
+#### Inconsistent Methodology
+**Problem:** Changing observation techniques mid-project  
+**Solution:** Refer back to Sheet 1 setup, note any necessary changes with justification
+
+#### AI Collaboration Confusion
+**Problem:** Unclear about when/how to use AI assistance  
+**Solution:** Review AI ethics guidelines, consult with teacher, use structured prompts
+
+#### Weather/Access Problems
+**Problem:** Field conditions preventing data collection  
+**Solution:** Document conditions, use backup observation methods, extend timeline if needed
+
+### Customization Notes
+- **Modify sheets** for specific ecosystem types or research focuses
+- **Add sections** for unique project requirements
+- **Combine sheets** for shorter projects or limited time
+- **Scale complexity** based on grade level and project scope
+
+### Assessment Integration
+- **Use completed sheets** as evidence for project grading
+- **Include reflection sheets** in portfolio assessment
+- **Reference AI collaboration logs** for digital literacy evaluation
+- **Demonstrate data quality** through systematic documentation
+
+---
+
+## 📖 Additional Resources
+
+### Recommended Field Guides
+- **Regional plant identification guides**
+- **Local bird identification resources**
+- **Insect and invertebrate field guides**
+- **Geological and soil identification materials**
+
+### Digital Tools
+- **iNaturalist app** for species identification and verification
+- **Weather apps** for accurate environmental data
+- **GPS/mapping apps** for location documentation
+- **Cloud storage** for photo and data backup
+
+### Safety Resources
+- **Local emergency contact information**
+- **First aid kit recommendations**
+- **Weather monitoring resources**
+- **Site-specific safety guidelines**
+
+### Academic Support
+- **Citation guidelines** for AI assistance documentation
+- **Scientific writing resources**
+- **Data analysis tutorials**
+- **Presentation preparation guides**
+
+---
+
+**Remember: These data collection sheets are tools to support your learning and discovery. The most important element is your careful observation, critical thinking, and genuine curiosity about the natural world around you!** 🌱📊
+
+---
+
+**Version History:**
+- v1.0 (August 2025): Initial release with 10 comprehensive data collection sheets
+- Compatible with: AI Collaboration Guide, Assessment Rubric, Research Templates
+- Repository: [GitHub Education Resources](https://github.com/therickyfoster/education/tree/main/classroom-tools/project-templates/systems-thinking-projects/local-ecosystem-study/resources)
