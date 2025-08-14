@@ -1,0 +1,14 @@
+{
+  "QuestCompleted": {
+    "required": ["quest_id","learner_id","evidence_refs","timestamp"],
+    "effects": ["score.xp","score.virtues","issue.badges?","seed.maybe"]
+  },
+  "ReflectionLogged": {
+    "required": ["learner_id","mood_before","mood_after","text","timestamp"],
+    "effects": ["score.aether","cooldown.reduce","virtues.curiosity+1"]
+  },
+  "RitualVerified": {
+    "required": ["ritual_id","mentor_id","gps","media","timestamp"],
+    "effects": ["score.xp*1.5","seed+1","badge:Earth-Tender"]
+  }
+}
