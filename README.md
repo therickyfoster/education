@@ -1,4 +1,4 @@
- # 🎓 AI Co-Evolution in Education 
+ # 🎓 AI Co-Evolution in Education
 
 <div align="center">
 
@@ -599,6 +599,7 @@ Legal outcomes prioritize educational community benefit over purely punitive mea
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
 
 
 
